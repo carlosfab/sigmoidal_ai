@@ -4,7 +4,7 @@ Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arq
 
 **Sigmoidal:** http://sigmoidal.ai
 
-![Sigmoida, blog sobre Python, Data Science e Deep LEarning](img/index.png)
+![Sigmoida, blog sobre Python, Data Science e Deep Learning](img/index.png)
 
 ### Sobre o blog:
 
@@ -21,6 +21,14 @@ Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satél
 * MBA em Gestão de Projetos e Processos pela UNIFA.
 * Curso de Operações Espaciais pela Força Aérea do Canadá.
 
+### eBook:
+Se você quer saber mais sobre a carreira em Data Science, os salários de cientistas de dados, qual linguagem de programação aprender ou por onde começar a estudar, baixe meu eBook gratuitamente. 
+
+![eBook - Como se Tornar um Cientista de Dados - Python](img/ebook_ds.png)
+
+**Como se Tornar um Cientista de Dados:** https://bit.ly/2MJTkaa
+
+
 ## Notebooks:
 Veja os tutoriais publicados do Sigmoidal:
 
@@ -35,9 +43,12 @@ Veja os tutoriais publicados do Sigmoidal:
 **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 
 ## Códigos
-*(Não são notebooks, mas códigos Python de apoio, para artigos específicos do Sigmoidal)*
+*(Não são notebooks, mas códigos Python de apoio para artigos específicos do Sigmoidal)*
 
 **Redes Neurais Multicamadas com Python e Keras:** https://bit.ly/2UcD0j3
+
+---
+
 
 
 
