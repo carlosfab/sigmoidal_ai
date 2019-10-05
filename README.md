@@ -1,3 +1,11 @@
+<p align="center">
+    <a href="http://sigmoidal.ai" alt="Contributors">
+        <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
+    </a>
+    <img src="/img/python-logo.svg">
+    <a href="https://github.com/carlosfab/sigmoidal_ai/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+</p>
+
 # Sigmoidal
 
 Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arquivo deste repositório é parte de um artigo do site. Para conseguir absorver o máximo possível, recomendo você ler também os *posts* do site, para maiores detalhes.
