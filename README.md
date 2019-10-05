@@ -17,6 +17,24 @@ Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arq
 
 **Sigmoidal:** http://sigmoidal.ai
 
+## Notebooks:
+Veja os tutoriais publicados do Sigmoidal:
+
+**Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+
+**Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+
+**Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+
+**Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
+
+**XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
+
+## Códigos
+*(Não são notebooks, mas códigos Python de apoio para artigos específicos do Sigmoidal)*
+
+**Redes Neurais Multicamadas com Python e Keras:** https://bit.ly/2UcD0j3
+
 ### Sobre o blog:
 
 **Foco:** Python, Data Science, Deep Learning e Espaço
@@ -40,25 +58,6 @@ Se você quer saber mais sobre a carreira em Data Science, os salários de cient
 ![eBook - Como se Tornar um Cientista de Dados - Python](img/ebook_ds.png)
 
 **Como se Tornar um Cientista de Dados:** https://bit.ly/2MJTkaa
-
-
-## Notebooks:
-Veja os tutoriais publicados do Sigmoidal:
-
-**Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-
-**Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-
-**Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-
-**Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-
-**XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-
-## Códigos
-*(Não são notebooks, mas códigos Python de apoio para artigos específicos do Sigmoidal)*
-
-**Redes Neurais Multicamadas com Python e Keras:** https://bit.ly/2UcD0j3
 
 ---
 
