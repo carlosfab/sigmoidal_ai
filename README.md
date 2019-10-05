@@ -8,17 +8,22 @@
 
 # Sigmoidal
 
+
+<p align="center">
+  <img src="/img/github_cover.png" >
+</p>
+
 Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arquivo deste repositório é parte de um artigo do site. Para conseguir absorver o máximo possível, recomendo você ler também os *posts* do site, para maiores detalhes.
 
 **Sigmoidal:** http://sigmoidal.ai
-
-![Sigmoida, blog sobre Python, Data Science e Deep Learning](img/index.png)
 
 ### Sobre o blog:
 
 **Foco:** Python, Data Science, Deep Learning e Espaço
 
 O Sigmoidal foi uma iniciativa pessoal para divulgar e tornar mais acessível conteúdos da área de Inteligência Artificial e Python. Tenho me comprometido 100% para trazer artigos de altíssimo nível, para ajudar tanto aqueles que estão começando na carreira quando aqueles que buscam informações mais avançadas e fora da caixa.
+
+![Sigmoida, blog sobre Python, Data Science e Deep Learning](img/index.png)
 
 ### Sobre mim:
 
