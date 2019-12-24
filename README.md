@@ -26,6 +26,7 @@ Veja os tutoriais publicados do Sigmoidal:
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
+* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 
 ## Códigos
 *(Não são notebooks, mas códigos Python de apoio para artigos específicos do Sigmoidal)*
