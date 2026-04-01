@@ -4,4 +4,4 @@ matplotlib==3.3.0
 numpy==1.19.1
 opencv-python==4.3.0.36
 playsound==1.2.2
-scipy==1.5.1
+scipy==1.10.0
